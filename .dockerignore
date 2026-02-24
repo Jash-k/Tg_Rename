@@ -1,10 +1,12 @@
- __pycache__/
+__pycache__/
 *.pyc
 *.pyo
 downloads/
 *.session
 *.session-journal
+.git/
+.gitignore
 .venv/
 venv/
+README.md
 .DS_Store
-.env
